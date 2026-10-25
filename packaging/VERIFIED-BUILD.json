@@ -1,0 +1,32 @@
+{
+  "title_id": "000400000F7A3500",
+  "version": "1.3.0",
+  "arm_load_segments_matched": 3,
+  "declared_svc_checks": 25,
+  "content_and_section_hashes": "passed",
+  "home_title": "涂鸦跃界",
+  "ndsp_writable_mappings": [
+    "0x1FF50000-0x1FF57FFF",
+    "0x1FF70000-0x1FF77FFF"
+  ],
+  "official_signature": "not present; 3 expected homebrew signature warnings",
+  "device_or_emulator_test": "not performed",
+  "artifacts": {
+    "doodle-hop-3ds.cia": {
+      "bytes": 1072064,
+      "sha256": "f64b0c8ced8b286a0012c429d17bb94465255408d15190de4d31c094677a6680"
+    },
+    "doodle-hop-3ds.3dsx": {
+      "bytes": 2627092,
+      "sha256": "4a7fbdeae74f3f475f2b6b1783a64d84b18aa634afa3da9b99462b43aec75a25"
+    },
+    "doodle-hop-3ds.smdh": {
+      "bytes": 14016,
+      "sha256": "3fba44d6b70604d244e42ac4c0d1701edf74c9a0374cd942b6cc9ebaf6600f87"
+    },
+    "doodle-hop-3ds.elf": {
+      "bytes": 6425872,
+      "sha256": "a832f8dbeda1e647770ce7b55a7944f809bc25c04f5a1c66c86a594a4559f492"
+    }
+  }
+}

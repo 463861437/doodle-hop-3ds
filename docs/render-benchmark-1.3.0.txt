@@ -1,0 +1,22 @@
+Desktop CPU rendering benchmark only; excludes 3DS GPU/cache services, simulation and VBlank. Not console FPS.
+v1.2 region=1 workload=stable-bottom median=85.132 us/frame range=77.606..147.309 (5 x 200 frames, warmup=40)
+v1.2 region=1 workload=touch-moving median=89.122 us/frame range=76.777..123.260 (5 x 200 frames, warmup=40)
+v1.2 region=1 workload=climbing-touch median=78.023 us/frame range=77.773..78.655 (5 x 200 frames, warmup=40)
+v1.2 region=2 workload=stable-bottom median=78.750 us/frame range=78.574..79.138 (5 x 200 frames, warmup=40)
+v1.2 region=2 workload=touch-moving median=78.940 us/frame range=78.564..79.225 (5 x 200 frames, warmup=40)
+v1.2 region=2 workload=climbing-touch median=78.468 us/frame range=78.025..78.951 (5 x 200 frames, warmup=40)
+v1.2 region=3 workload=stable-bottom median=78.629 us/frame range=78.358..78.983 (5 x 200 frames, warmup=40)
+v1.2 region=3 workload=touch-moving median=78.612 us/frame range=78.233..78.907 (5 x 200 frames, warmup=40)
+v1.2 region=3 workload=climbing-touch median=81.090 us/frame range=80.171..82.528 (5 x 200 frames, warmup=40)
+observable checksum: 12453
+Desktop CPU rendering benchmark only; excludes 3DS GPU/cache services, simulation and VBlank. Not console FPS.
+v1.3 region=1 workload=stable-bottom median=84.985 us/frame range=77.798..140.050 (5 x 200 frames, warmup=40)
+v1.3 region=1 workload=touch-moving median=77.757 us/frame range=77.497..77.961 (5 x 200 frames, warmup=40)
+v1.3 region=1 workload=climbing-touch median=77.655 us/frame range=76.657..78.291 (5 x 200 frames, warmup=40)
+v1.3 region=2 workload=stable-bottom median=77.368 us/frame range=77.007..78.095 (5 x 200 frames, warmup=40)
+v1.3 region=2 workload=touch-moving median=77.857 us/frame range=77.171..78.335 (5 x 200 frames, warmup=40)
+v1.3 region=2 workload=climbing-touch median=78.114 us/frame range=77.710..78.815 (5 x 200 frames, warmup=40)
+v1.3 region=3 workload=stable-bottom median=79.019 us/frame range=78.355..79.371 (5 x 200 frames, warmup=40)
+v1.3 region=3 workload=touch-moving median=79.354 us/frame range=79.021..79.475 (5 x 200 frames, warmup=40)
+v1.3 region=3 workload=climbing-touch median=80.045 us/frame range=79.266..80.827 (5 x 200 frames, warmup=40)
+observable checksum: 19044

@@ -1,0 +1,235 @@
+{
+  "style": "modern pre-rendered 3D cartoon",
+  "render_tool": "Blender bpy 4.5.3 LTS",
+  "sprite_count": 39,
+  "background_count": 6,
+  "sprite_bytes": 754528,
+  "background_bytes": 1612800,
+  "generated": {
+    "hero_right": {
+      "width": 40,
+      "height": 44,
+      "png_sha256": "0c38ab2c9b8284465702df00a91f7d78c4f8c593703ff656f49c224f32ebfc30"
+    },
+    "hero_rise": {
+      "width": 40,
+      "height": 44,
+      "png_sha256": "072a7d0ec4122236ddd56fc6083b5888cd2f4a9815528c736553e5f5e4b5f287"
+    },
+    "hero_fall": {
+      "width": 40,
+      "height": 44,
+      "png_sha256": "25752ff9514373e588fc08770fa78ba6ae441d87fb26b2662321e4b493642730"
+    },
+    "hero_blink": {
+      "width": 40,
+      "height": 44,
+      "png_sha256": "fb3897fcf9f3a822f47324068d27db83f5a311fe03fbcc7a35ec04482f4ac051"
+    },
+    "hero_jet": {
+      "width": 40,
+      "height": 44,
+      "png_sha256": "4961decb7ffe4545b5c03acd699b48a6eb11c455d3eeba825cb4d8585526ae89"
+    },
+    "hero_left": {
+      "width": 40,
+      "height": 44,
+      "png_sha256": "ffbd53d9c27660e75eb9eb935a3e8b7dd1386f38ce35a360d3a9b0cfe5348020"
+    },
+    "title_hero": {
+      "width": 120,
+      "height": 140,
+      "png_sha256": "f24dc268fd4f4e82f2f7772173f18e8cf492f84443e0348532a66f099d47fda3"
+    },
+    "platform_grass": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "67f8a719279a95b8cdec61e796e787fe2ad39ddbc6fd482373fe22345488681f"
+    },
+    "platform_moving": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "2c0cc5a1ac6b3c20a5c25352a27d62a054ddf7b6d9d14727183d34e67c7458bb"
+    },
+    "platform_breakable": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "cb9f8bf5938101986608af0582e783555c407045d2e88e3425c9d61a9cc801d5"
+    },
+    "platform_vanishing": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "84d5d7a573f5856e2597deddbd23b82e76ca56d7f80a49418754f2550269e51c"
+    },
+    "platform_grass_town": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "60fa245cf99b6183571bac3905f4fceea2170f4d07df2fa64aa3a440a82c209d"
+    },
+    "platform_moving_town": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "e578e05f39da57417a8595ae94d89376448c3d498e74d350b4565effdfe50edf"
+    },
+    "platform_breakable_town": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "cb9f8bf5938101986608af0582e783555c407045d2e88e3425c9d61a9cc801d5"
+    },
+    "platform_vanishing_town": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "d56fa3113cbd61c08c76b2ae2a122bcaaf1188e2ff2a4715a43268d36720cda9"
+    },
+    "platform_grass_crystal": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "fc9c2245189431a975b42bac003182eb6df6927bcc1f64d7ab73e8dba1ce44ce"
+    },
+    "platform_moving_crystal": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "5d2cda2238a76352caf6e4783dc2606a2e348db3b5adcba9fd8875afd9d04764"
+    },
+    "platform_breakable_crystal": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "7d0495db21959b87243a1c873705c9c1dc69adf3286d9fcfe12bae72b892a434"
+    },
+    "platform_vanishing_crystal": {
+      "width": 80,
+      "height": 24,
+      "png_sha256": "0c31495350184e8f47cb9fbac2c41929900158d30cebe89b160bf2e70d7d9823"
+    },
+    "star": {
+      "width": 22,
+      "height": 22,
+      "png_sha256": "1ecded81d52a10b2f01c1d95761cf21ab1a29c87b95da2e7013314de4ce77cca"
+    },
+    "spring": {
+      "width": 22,
+      "height": 20,
+      "png_sha256": "a9bb964cc99b4eee8aae93a8c7baab868309a34a688fa44dd2b2babf814ae4a1"
+    },
+    "jetpack": {
+      "width": 24,
+      "height": 30,
+      "png_sha256": "f8ac3f2212fd3951340e7a6571a50a7926e58f59c38e52b01de44f00efb8f112"
+    },
+    "enemy": {
+      "width": 36,
+      "height": 32,
+      "png_sha256": "36d6bcc410f0606e9bb69f6081d491686c3e0897511b13c21cd90eaed12e0169"
+    },
+    "enemy_town": {
+      "width": 36,
+      "height": 32,
+      "png_sha256": "2fc9e7d6bf03aa1977266c4b16ce3c5a40d203f14d6e7996a1f3ae1c4f3838b9"
+    },
+    "enemy_crystal": {
+      "width": 36,
+      "height": 32,
+      "png_sha256": "33ecdb139379b2f11df3a7a2d78285f3fb212aa9d10a14707dd82e8546235760"
+    },
+    "spark": {
+      "width": 16,
+      "height": 16,
+      "png_sha256": "1b3b45d6acc284c2d281e51eeeeb07733c5f9419f5c0277b01acf322317fa78e"
+    },
+    "jet_flame": {
+      "width": 16,
+      "height": 28,
+      "png_sha256": "d61b1a4bd2a78ebda36efc1bd681cd27fefcd28b18660d632398c0b11f00d873"
+    },
+    "leaf": {
+      "width": 8,
+      "height": 8,
+      "png_sha256": "eda0b9352fea73642f62e33cbd38e8c5253dbf4111bb0c122cf46c8a06b92d50"
+    },
+    "firefly": {
+      "width": 8,
+      "height": 8,
+      "png_sha256": "1e891d19aa77d411bce36354d1c5fa65c41e8a85b72eaf6fcdb15ba164270cad"
+    },
+    "gear": {
+      "width": 16,
+      "height": 16,
+      "png_sha256": "7f636282b4cdf345ed36f3eba512b0f81d33c908aef6011364ede3ba677f3525"
+    },
+    "crystal_spark": {
+      "width": 12,
+      "height": 16,
+      "png_sha256": "a2ea3866056e8f252b76ce8ff4d540bea7986e7f8218a8028731db391971001b"
+    },
+    "decor_forest": {
+      "width": 96,
+      "height": 180,
+      "png_sha256": "77c9c2741dfcb28a8e09183b64861c3a90911e3885399f789e8cc67df6badc5a"
+    },
+    "decor_town": {
+      "width": 96,
+      "height": 180,
+      "png_sha256": "8044b170640107f77afc49b1c02fc62b0003b74348832cd5732d2884b25e05cb"
+    },
+    "decor_crystal": {
+      "width": 96,
+      "height": 180,
+      "png_sha256": "13a6ee75f090280feb9ade46d741a2375e0617079714010bf48dac129f072f74"
+    },
+    "ui_primary": {
+      "width": 272,
+      "height": 46,
+      "png_sha256": "546eab2888acc2d4dec3ed5e7326cf52b3b9fd7e6bf2c641dc276cf7584e1744"
+    },
+    "ui_secondary": {
+      "width": 130,
+      "height": 34,
+      "png_sha256": "6ff534152d5ba2691cbaf5ee6e4f1dd240b86f99af3a873009530aa14b130536"
+    },
+    "ui_panel": {
+      "width": 280,
+      "height": 150,
+      "png_sha256": "3a254e4f5f9e2102885c55d16e56101746a26b6cbb244b03507e833738908680"
+    },
+    "hud_plate": {
+      "width": 120,
+      "height": 24,
+      "png_sha256": "1b5871a9162f871346a7aadf7c5e59fe6c2ca06b60421b963a4f0fdf1dca8e6b"
+    },
+    "title_logo": {
+      "width": 260,
+      "height": 70,
+      "png_sha256": "28c2c8f3e468974f7bafb41a655089c3f89e861f08d7abfc6c8cfd84ea94591c"
+    },
+    "bg_day": {
+      "width": 400,
+      "height": 240,
+      "png_sha256": "4f69788a9474b77df9c51c80d7ba094024a3e865c2bfe28f0341691e344e6b2d"
+    },
+    "bg_dusk": {
+      "width": 400,
+      "height": 240,
+      "png_sha256": "86ced1494b392e5a2bd99925a07c8a4bd830552fe1198fa1d10133e037b30407"
+    },
+    "bg_night": {
+      "width": 400,
+      "height": 240,
+      "png_sha256": "4fe046df9725bc218d137feac1570027f389c8447bdc503239f4a27374a7bcff"
+    },
+    "bg_title": {
+      "width": 400,
+      "height": 240,
+      "png_sha256": "51ace2cd6af013291c01aaa164a8eeda6616057f79a5df7e9414e062e53886ef"
+    },
+    "bg_bottom": {
+      "width": 320,
+      "height": 240,
+      "png_sha256": "c4a882f2f458b3ae8b7902492b2858bf3e9098487f18b8333176361a26a83496"
+    },
+    "bg_controls": {
+      "width": 320,
+      "height": 240,
+      "png_sha256": "7f510efa74fe9f5415cbc6f18708267049d8d6132664756ee73a51a2bf8b3a8b"
+    }
+  }
+}
